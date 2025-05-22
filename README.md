@@ -1,4 +1,4 @@
-# 🎙️ The Choicer Voicer
+# Download The Choicer Voicer
 
 ![Safe](https://img.shields.io/badge/Trusted-100%25_Safe-brightgreen)
 ![Downloads](https://img.shields.io/badge/Downloads-100K+-blue)
